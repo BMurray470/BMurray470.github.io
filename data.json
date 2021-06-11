@@ -1,0 +1,1205 @@
+{"modules":[
+ {
+  "code": "Select A Module",
+  "name": null,
+  "stage": null,
+  "credits": null
+ },
+
+ {
+ "code": "A215",
+ "name": "Creative Writing",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "A222",
+ "name": "Exploring Philosophy",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A223",
+ "name": "Early Modern Europe: Society And Culture C. 1500-1780",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A225",
+ "name": "The British Isles And The Modern World, 1789-1914",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A226",
+ "name": "Exploring Art And Visual Culture",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A227",
+ "name": "Exploring Religion: Places, Practices, Texts And Experiences",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A229",
+ "name": "Exploring The Classical World",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A230",
+ "name": "Reading And Studying Literature",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A232",
+ "name": "Music, Sound And Technology",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A233",
+ "name": "Telling Stories: The Novel And Beyond",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A234",
+ "name": "Understanding Music",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A276",
+ "name": "Classical Latin: The Language Of Ancient Rome",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "A326",
+ "name": "Empire: 1942-1975",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A327",
+ "name": "Europe 1914-1989: War, Peace, Modernity",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A329",
+ "name": "The Making Of Welsh History",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A330",
+ "name": "Myth In The Greek And Roman Worlds",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A332",
+ "name": "Why Is Religion Controversial?",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "A333",
+ "name": "Key Questions In Philosophy",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A334",
+ "name": "English Literature From Shakespeare To Austen",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A335",
+ "name": "Literature In Transition: From 1800 To The Present",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A340",
+ "name": "The Roman Empire",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A342",
+ "name": "Central Questions In The Study Of Music",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A344",
+ "name": "Art And Its Global Histories",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "A363",
+ "name": "Advanced Creative Writing",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "B205",
+ "name": "Exploring Innovation And Entrepreneurship",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "B206",
+ "name": "Understanding Customers",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "B207",
+ "name": "Shaping Business Opportunities",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "B208",
+ "name": "Developing Leadership",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "B293",
+ "name": "Financial Accounting In Context",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "B294",
+ "name": "Financial Analysis And Decision Making",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "B302",
+ "name": "Strategic Management",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "B327",
+ "name": "Creating Futures: Sustainable Enterprise And Innovation",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "B328",
+ "name": "Marketing In Action",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "B329",
+ "name": "Leadership In A Changing World",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "B391",
+ "name": "Management Accounting And International Finance",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "B392",
+ "name": "Advanced Management Accounting",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "D225",
+ "name": "Changing Geographies Of The United Kingdom",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "D241",
+ "name": "Exploring Mental Health And Counselling",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "DD209",
+ "name": "Running The Economy",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "DD210",
+ "name": "Living Psychology: From Everyday To The Extraordinary",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "DD211",
+ "name": "Understanding Politics: Ideas And Institutions In The Modern World",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "DD212",
+ "name": "Understanding Criminology",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "DD213",
+ "name": "Environment And Society",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "DD215",
+ "name": "Social Research: Crime, Justice And Society",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "DD218",
+ "name": "Understanding Digital Societies",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "DD226",
+ "name": "Economics In Practice",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "DD308",
+ "name": "Making Social Worlds",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "DD309",
+ "name": "Doing Economics: People, Markets And Policy",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "DD310",
+ "name": "Counselling And Forensic Psychology: Investigating Crime And Therapy",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "DD311",
+ "name": "Crime, Harm And The State",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "DD313",
+ "name": "International Relations: Continuity And Change In Global Politics",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "DD316",
+ "name": "Modern Political Ideas",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "DD317",
+ "name": "Advancing Social Psychology",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+"code": "DD319",
+"name": "Environmental Policy In An International Context",
+"stage": 3,
+"credits": 60
+},
+
+{
+ "code": "DST206",
+ "name": "Environment: Sharing A Dynamic Planet",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "E209",
+ "name": "Developing Subject Knowledge For The Primary Years",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "E219",
+ "name": "Psychology Of Childhood And Youth",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "E232",
+ "name": "Exploring Childhood And Youth",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "E235",
+ "name": "Sport And Exercise Psychology In Action",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "E236",
+ "name": "Applying Sport And Exercise Sciences To Coaching",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "E302",
+ "name": "Language And Creativity",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "E304",
+ "name": "Exploring English Grammar",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "E309",
+ "name": "Comparative And International Studies In Primary Education",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "E312",
+ "name": "Athletic Development: A Psychological Perspective",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "E314",
+ "name": "Exploring Contemporary Issues In Sport And Exercise",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "EA300",
+ "name": "Childrens Literature",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "EK313",
+ "name": "Issues In Research With Children And Young People",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "K219",
+ "name": "Critical Issues In Health And Wellbeing",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "K220",
+ "name": "Death, Dying & Bereavement",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "K236",
+ "name": "Extending Your Contribution To Healthcare Practice",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "K240",
+ "name": "Mental Health And Community",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "K271",
+ "name": "Social Work Law",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "K314",
+ "name": "Approaches To Mental Health",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "K316",
+ "name": "Exploring Practice",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "K318",
+ "name": "Leading, Managing, Caring",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "K323",
+ "name": "Investigating Health And Social Care",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "KE206",
+ "name": "Making A Difference: Working With Children And Young People",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "KE322",
+ "name": "Young Lives, Parenting And Families",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "KYN327",
+ "name": "Becoming An Autonomous Practioner: Mental Health",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "L201",
+ "name": "English In The World",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "L222",
+ "name": "French Studies 2: Language And Culture Of The French-Speaking World",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "L223",
+ "name": "German Studies 2: Language And Culture Of The German-Speaking World",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "L226",
+ "name": "Spanish Studies 2: Language And Culture Of The Spanish-Speaking World",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "L310",
+ "name": "Mises Au Point: Advanced French",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "L313",
+ "name": "Variationen: Advanced German",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "L314",
+ "name": "A Buen Puerto: Advanced Spanish",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "M208",
+ "name": "Pure Mathematics",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "M248",
+ "name": "Analysing Data",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "M249",
+ "name": "Practical Modern Statistics",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "M250",
+ "name": "Object-Oriented Java Programming",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "M269",
+ "name": "Algorithms, Data Structures And Computability",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "M303",
+ "name": "Further Pure Mathematics",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "M337",
+ "name": "Complex Analysis",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "M343",
+ "name": "Applications Of Probability",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "M346",
+ "name": "Linear Statistical Modelling",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "M347",
+ "name": "Mathematical Statistics",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "M373",
+ "name": "Optimization",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "ME321",
+ "name": "Learning And Doing Geometry",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "ME620",
+ "name": "Mathematical Thinking In Schools",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "ME625",
+ "name": "Developing Algebraic Thinking",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "ME626",
+ "name": "Developing Statistical Thinking",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "MS327",
+ "name": "Deterministic And Stochastic Dynamics",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "MST210",
+ "name": "Mathematical Methods, Models And Modelling",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "MST224",
+ "name": "Mathematical Models",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "MST326",
+ "name": "Mathematical Methods And Fluid Mechanics",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "MT365",
+ "name": "Graphs, Networks And Design",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "S206",
+ "name": "Environmental Science",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "S209",
+ "name": "Earth Science",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "S215",
+ "name": "Chemistry: Essential Concepts",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "S217",
+ "name": "Physics: From Classical To Quantum",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "S248",
+ "name": "Chemistry In Life: Food, Water And Medicines",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "S283",
+ "name": "Planetary Science And The Search For Life",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "S284",
+ "name": "Astronomy",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "S285",
+ "name": "Investigative Approaches In Biology And Chemistry",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "S290",
+ "name": "Investigating Human Health And Disease",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "S294",
+ "name": "Cell Biology",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "S295",
+ "name": "The Biology Of Survival",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "S309",
+ "name": "Earth Processes",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "S315",
+ "name": "Chemistry: Further Concepts And Applications",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "S317",
+ "name": "Biological Science: From Genes To Species",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "S350",
+ "name": "Evaluating Contemporary Science",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "S382",
+ "name": "Astrophysics",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "S383",
+ "name": "The Relativistic Universe",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "S397",
+ "name": "Terrestial Ecosystems",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SD329",
+ "name": "Signals And Perception: The Science Of The Senses",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SDT306",
+ "name": "Environment: Responding To Change",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "SK298",
+ "name": "Brain, Mind, And Mental Health",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "SK299",
+ "name": "Human Biology",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "SK320",
+ "name": "Infectious Disease And Public Health",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SM358",
+ "name": "The Quantum World",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SMT359",
+ "name": "Electromagnetism",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SXE390",
+ "name": "Science Project Course: Environmental Science Practical Project",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SXG390",
+ "name": "Science Project Course: Geosciences",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SXL390",
+ "name": "Researching Biology And Health Science",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SXM390",
+ "name": "Science Project Course: Frontiers In Chemistry",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SXN390",
+ "name": "Science Project Course: Science In Society Project",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SXP390",
+ "name": "Science Project Course: Radiation And Matter",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "SXPS288",
+ "name": "Remote Experiments In Physics And Space",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "T212",
+ "name": "Electronics: Sensing, Logic And Actuation",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "T213",
+ "name": "Energy And Sustainability",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "T217",
+ "name": "Design Essentials",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "T218",
+ "name": "Design For Engineers",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "T219",
+ "name": "Environmental Management 1",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "T227",
+ "name": "Chance, Strategy And Projects At Work",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "T229",
+ "name": "Mechanical Engineering: Heat And Flow",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "T271",
+ "name": "Core Engineering A",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "T272",
+ "name": "Core Engineering B",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "T312",
+ "name": "Electronics: Signal Processing, Control And Communications",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "T313",
+ "name": "Renewable Energy",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "T317",
+ "name": "Innovation: Designing For Change",
+ "stage": 3,
+ "credits": 60
+},
+
+{
+ "code": "T319",
+ "name": "Environmental Management 2",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "T336",
+ "name": "Nanoscale Engineering",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "T357",
+ "name": "Stuctural Integrity: Designing Against Failure",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "TD223",
+ "name": "International Development: Making Sense Of A Changing World",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "TM254",
+ "name": "Managing IT: The Why, The What, The How",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "TM255",
+ "name": "Communications And Information Technologies",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "TM257",
+ "name": "Cisco Networking (CCNA) Part 1",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "TM351",
+ "name": "Data Management And Analysis",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "TM352",
+ "name": "Web, Mobile And Cloud Technologies",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "TM353",
+ "name": "IT Systems: Planning For Success",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "TM354",
+ "name": "Software Engineering",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "TM355",
+ "name": "Communications Technology",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "TM356",
+ "name": "Interaction Design And User Experience",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "TM357",
+ "name": "Cisco Networking (CCNA) Part 2",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "TM470",
+ "name": "The Computing And IT Project",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "TT284",
+ "name": "Web Technologies",
+ "stage": 2,
+ "credits": 30
+},
+
+{
+ "code": "W202",
+ "name": "Contract Law And Tort Law",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "W203",
+ "name": "Public Law And Criminal Law",
+ "stage": 2,
+ "credits": 60
+},
+
+{
+ "code": "W330",
+ "name": "European Union Law",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "W340",
+ "name": "Law, Society And Culture",
+ "stage": 3,
+ "credits": 30
+},
+
+{
+ "code": "W350",
+ "name": "Exploring Legal Boundaries",
+ "stage": 3,
+ "credits": 60
+}
+]}
